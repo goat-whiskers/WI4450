@@ -23,7 +23,7 @@
 //
 // int main()
 //{
-//  Timer("main");
+//  Timer t("main");
 //  ...
 // foo();
 // Timer::summarize();
@@ -37,13 +37,13 @@ public:
 
   Timer(std::string label);
   ~Timer();
-  static void summarize(std::ostream& os=std::cout);
+static void summarize(std::ostream& os=std::cout);
 
 private:
 
   std::string label_;
   double t_start_;
-  static std::map<std::string, double> times_;
+static std::map<std::string, double> times_;
   static std::map<std::string, int> counts_;
 
 };

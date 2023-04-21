@@ -79,4 +79,8 @@ typedef struct stencil3d
 //! apply a 7-point stencil to a vector, v = op*x
 void apply_stencil3d(stencil3d const* op,
         double const* u, double* v);
+        
+//! apply a 7-point stencil to a vector, v = op*x
+void apply_jacobi(stencil3d const* op,
+        double const* u, double* v);
 
