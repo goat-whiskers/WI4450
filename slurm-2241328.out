@@ -1,0 +1,256 @@
+Maximum number of threads: 12
+STRONG CONVERGENCE: 
+--------------------
+Time taken by init() for problem size n = 300000 and threads/cores p = 1
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+============================================================================
+Time taken by init() for problem size n = 300000 and threads/cores p = 2
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+         init-strong	         2	0.00204747	0.00102373
+============================================================================
+Time taken by init() for problem size n = 300000 and threads/cores p = 3
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+         init-strong	         4	0.00249446	0.000623614
+============================================================================
+Time taken by init() for problem size n = 300000 and threads/cores p = 4
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+         init-strong	         6	0.00280724	0.000467873
+============================================================================
+Time taken by init() for problem size n = 300000 and threads/cores p = 5
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+         init-strong	         8	0.00299149	0.000373936
+============================================================================
+Time taken by init() for problem size n = 300000 and threads/cores p = 6
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+         init-strong	        10	0.00324167	0.000324167
+============================================================================
+Time taken by init() for problem size n = 300000 and threads/cores p = 7
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+         init-strong	        12	0.00346032	0.00028836
+============================================================================
+Time taken by init() for problem size n = 300000 and threads/cores p = 8
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+         init-strong	        14	0.00366751	0.000261965
+============================================================================
+Time taken by init() for problem size n = 300000 and threads/cores p = 9
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+         init-strong	        16	0.00386826	0.000241766
+============================================================================
+Time taken by init() for problem size n = 300000 and threads/cores p = 10
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+         init-strong	        18	 0.0041578	0.000230989
+============================================================================
+Time taken by init() for problem size n = 300000 and threads/cores p = 11
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+         init-strong	        20	0.00433429	0.000216714
+============================================================================
+Time taken by init() for problem size n = 300000 and threads/cores p = 12
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+         init-strong	        22	0.00459629	0.000208922
+============================================================================
+Time taken by dot() for problem size n = 300000 and threads/cores p = 1
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by dot() for problem size n = 300000 and threads/cores p = 2
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+          dot-strong	         2	0.000739923	0.000369961
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by dot() for problem size n = 300000 and threads/cores p = 3
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+          dot-strong	         4	0.00115214	0.000288035
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by dot() for problem size n = 300000 and threads/cores p = 4
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+          dot-strong	         6	0.00147699	0.000246164
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by dot() for problem size n = 300000 and threads/cores p = 5
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+          dot-strong	         8	0.00185979	0.000232474
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by dot() for problem size n = 300000 and threads/cores p = 6
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+          dot-strong	        10	0.00207647	0.000207647
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by dot() for problem size n = 300000 and threads/cores p = 7
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+          dot-strong	        12	 0.0023518	0.000195984
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by dot() for problem size n = 300000 and threads/cores p = 8
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+          dot-strong	        14	0.00264195	0.000188711
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by dot() for problem size n = 300000 and threads/cores p = 9
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+          dot-strong	        16	0.00286519	0.000179075
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by dot() for problem size n = 300000 and threads/cores p = 10
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+          dot-strong	        18	0.00305742	0.000169856
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by dot() for problem size n = 300000 and threads/cores p = 11
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+          dot-strong	        20	0.00321741	0.00016087
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by dot() for problem size n = 300000 and threads/cores p = 12
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+          dot-strong	        22	0.00337311	0.000153323
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by axpby() for problem size n = 300000 and threads/cores p = 1
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+          dot-strong	        24	0.00351442	0.000146434
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by axpby() for problem size n = 300000 and threads/cores p = 2
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+srun: error: cmp080: task 0: Aborted (core dumped)
+----------------------------------------------
+srun: launch/slurm: _step_signal: Terminating StepId=2241328.0
+        axpby-strong	         2	0.00109133	0.000545666
+          dot-strong	        24	0.00351442	0.000146434
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by axpby() for problem size n = 300000 and threads/cores p = 3
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+        axpby-strong	         4	0.00157623	0.000394058
+          dot-strong	        24	0.00351442	0.000146434
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by axpby() for problem size n = 300000 and threads/cores p = 4
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+        axpby-strong	         6	0.00182304	0.000303841
+          dot-strong	        24	0.00351442	0.000146434
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by axpby() for problem size n = 300000 and threads/cores p = 5
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+        axpby-strong	         8	0.00203478	0.000254347
+          dot-strong	        24	0.00351442	0.000146434
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by axpby() for problem size n = 300000 and threads/cores p = 6
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+        axpby-strong	        10	0.00221743	0.000221743
+          dot-strong	        24	0.00351442	0.000146434
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by axpby() for problem size n = 300000 and threads/cores p = 7
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+        axpby-strong	        12	0.00251298	0.000209415
+          dot-strong	        24	0.00351442	0.000146434
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by axpby() for problem size n = 300000 and threads/cores p = 8
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+        axpby-strong	        14	0.00276591	0.000197565
+          dot-strong	        24	0.00351442	0.000146434
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by axpby() for problem size n = 300000 and threads/cores p = 9
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+        axpby-strong	        16	0.00300773	0.000187983
+          dot-strong	        24	0.00351442	0.000146434
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by axpby() for problem size n = 300000 and threads/cores p = 10
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+        axpby-strong	        18	0.00334631	0.000185906
+          dot-strong	        24	0.00351442	0.000146434
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by axpby() for problem size n = 300000 and threads/cores p = 11
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+        axpby-strong	        20	0.00357327	0.000178663
+          dot-strong	        24	0.00351442	0.000146434
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+Time taken by axpby() for problem size n = 300000 and threads/cores p = 12
+==================== TIMER SUMMARY =========================================
+label               	calls     	total time	mean time 
+----------------------------------------------
+        axpby-strong	        22	0.00375971	0.000170896
+          dot-strong	        24	0.00351442	0.000146434
+         init-strong	        24	 0.0047618	0.000198408
+============================================================================
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
