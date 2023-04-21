@@ -100,8 +100,8 @@ if      (argc==1) {nx=128;           ny=128;           nz=128;}
     }
 
   // solve the linear system of equations using CG
-int numIter, maxIter=500;
-double resNorm, tol=std::sqrt(std::numeric_limits<double>::epsilon());
+  int numIter, maxIter=100;
+  double resNorm, tol=std::sqrt(std::numeric_limits<double>::epsilon());
 
 try {
   cg_solver(&L, n, x, b, tol, maxIter, &resNorm, &numIter);
